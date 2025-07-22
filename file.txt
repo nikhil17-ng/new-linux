@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 neew file 
 
 second dfradt
 
 third comment
+=======
+neew file 
+>>>>>>> parent of b509ff8 (second draft)
