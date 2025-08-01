@@ -7,3 +7,5 @@ third comment
 =======
 neew file 
 >>>>>>> parent of b509ff8 (second draft)
+
+modify the file
